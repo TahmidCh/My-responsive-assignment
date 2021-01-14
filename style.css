@@ -2,6 +2,16 @@
     background-color: #FFFBF0;
 }
 
+.my-header img{
+    width: 65%;
+    background-color: #FFFBF0;
+}
+
+.my-nav-bar{
+    background-color: #FFFBF0;
+    padding-top: 30px;
+}
+
 .ladies-jacket img{
     width: 350px;
     height: 450px;
@@ -13,9 +23,25 @@
 
 .ladies-jacket{
     border-radius: 20px;
+    border: none;
 }
 
 .ladies-jacket-footer{
     background-color: white;
     border: none;
+    border-radius: 20px;
 }
+.last-card img{
+    width: 80%;
+    padding-left: 20px;
+}
+
+.last-card-main-div{
+    border: none;
+    border-radius: 15px;
+}
+
+.last-section{
+    margin-top: 150px;
+}
+
