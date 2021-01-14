@@ -1,3 +1,21 @@
 .my-header{
     background-color: #FFFBF0;
 }
+
+.ladies-jacket img{
+    width: 350px;
+    height: 450px;
+    margin: 20px auto;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.ladies-jacket{
+    border-radius: 20px;
+}
+
+.ladies-jacket-footer{
+    background-color: white;
+    border: none;
+}
