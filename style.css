@@ -4,18 +4,18 @@
 
 .my-header img{
     width: 65%;
-    background-color: #FFFBF0;
+
 }
 
 .my-nav-bar{
-    background-color: #FFFBF0;
+
     padding-top: 30px;
 }
 
 .last-card{
     border-radius: 30px;
     border: none;
-    height: 140px;
+    height: auto;
 }
 
 
@@ -32,9 +32,9 @@
     font-size: 60px;
 }
 
-.btn-xl{
+.btn-lg{
     padding: 10px 20px;
-    font-size: 20px;
+    font-size: 25px;
     border-radius: 10px;
 }
 .jacket-section img{
@@ -71,6 +71,17 @@
  .jacket-header-man{
      margin-top: 80px;
      padding-top: 80px;
+ }
+ .testimonial{
+     margin-top: 80px;
+ }
+ .testimonial h1{
+     margin-bottom: 80px;
+ }
+
+ .my-header-2{
+     padding-top: 140px;
+     padding-bottom: 60px;
  }
 
 
